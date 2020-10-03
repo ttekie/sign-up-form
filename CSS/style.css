@@ -20,9 +20,8 @@
   text-align: center;
   background-color: #FFFFFF;
   margin-top: 10px;
-  margin-left: 35%;
-  margin-right: 35%;
-  width: 340px;
+  margin: 0 auto;
+  max-width: 310px;
   height: 620px;
   border-radius: 5px;
 }
@@ -54,6 +53,14 @@ p input {
 }
 #link {
   text-decoration: none;
+}
+.term {
+  font-family: system-ui;
+  font-size: 12px;
+}
+.member {
+  font-family: system-ui;
+  font-size: 14px;
 }
 hr {
   margin-left: 10%;
